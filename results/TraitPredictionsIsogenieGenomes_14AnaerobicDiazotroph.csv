@@ -1,0 +1,21 @@
+genome,domaine,phylum,habitat_binnedfrom,depth_binnedfrom,functional_group,substrate,Rmax,K
+73.20110800_S1M.60,Bacteria,Proteobacteria,bog,mid,Anaerobic diazotroph,Carbon dioxide,0.035541897237123525,0.08557586887263657
+73.20110800_S1M.73,Bacteria,Acidobacteria,bog,mid,Anaerobic diazotroph,Carbon dioxide,0.04446091864663207,0.10641471790869564
+73.20120500_P28.7,Bacteria,Proteobacteria,palsa,series,Anaerobic diazotroph,Carbon dioxide,0.027629578959329375,0.06793371353454532
+73.20120500_P28.8,Bacteria,Proteobacteria,palsa,series,Anaerobic diazotroph,Carbon dioxide,0.08681901614284183,0.16425285726043184
+73.20120600_E2D.118,Bacteria,Actinobacteria,fen,deep,Anaerobic diazotroph,Carbon dioxide,0.03295646854967245,0.07972218197840727
+73.20120600_E2D.69,Bacteria,Actinobacteria,fen,deep,Anaerobic diazotroph,Carbon dioxide,0.042978906415647694,0.10208960502784298
+73.20120600_E3D.60,Bacteria,Proteobacteria,fen,deep,Anaerobic diazotroph,Carbon dioxide,0.023786704028657193,0.05981424093978389
+73.20120600_E3D.84,Bacteria,Proteobacteria,fen,deep,Anaerobic diazotroph,Carbon dioxide,0.0360805097013438,0.08669239956121326
+73.20120700_E1D.21,Bacteria,Acidobacteria,fen,deep,Anaerobic diazotroph,Carbon dioxide,0.06761675558798239,0.15857433726241757
+73.20120700_P3D.113,Bacteria,Proteobacteria,palsa,deep,Anaerobic diazotroph,Carbon dioxide,0.08139269727559033,0.15458820053621344
+73.20120700_P3D.282,Bacteria,Proteobacteria,palsa,deep,Anaerobic diazotroph,Carbon dioxide,0.04529442794930535,0.10643632782212796
+73.20120700_P3D.316,Bacteria,Proteobacteria,palsa,deep,Anaerobic diazotroph,Carbon dioxide,0.0598151197644749,0.1389078827559123
+73.20120700_P3D.333,Bacteria,Nitrospirae,palsa,deep,Anaerobic diazotroph,Carbon dioxide,0.04624797656752629,0.10864994966251995
+73.20120700_S1D.242,Bacteria,Proteobacteria,bog,deep,Anaerobic diazotroph,Carbon dioxide,0.022772995390515124,0.058292498329793524
+73.20120700_S1D.260,Bacteria,Proteobacteria,bog,deep,Anaerobic diazotroph,Carbon dioxide,0.04265880789029855,0.08466440806820365
+73.20120700_S1D.96,Bacteria,Proteobacteria,bog,deep,Anaerobic diazotroph,Carbon dioxide,0.03189067504195796,0.0776853254751033
+73.20120700_S1D.97,Bacteria,Acidobacteria,bog,deep,Anaerobic diazotroph,Carbon dioxide,0.05655164691710696,0.09733820819830788
+73.20120700_S3D.28,Bacteria,Acidobacteria,bog,deep,Anaerobic diazotroph,Carbon dioxide,0.053433663008238354,0.12472318681409078
+73.20120700_S3X.5,Bacteria,Acidobacteria,bog,extradeep,Anaerobic diazotroph,Carbon dioxide,0.07034699657626532,0.13396548670873853
+73.20120800_S3M.30,Bacteria,Proteobacteria,bog,mid,Anaerobic diazotroph,Carbon dioxide,0.032476296185330385,0.07948063902211666

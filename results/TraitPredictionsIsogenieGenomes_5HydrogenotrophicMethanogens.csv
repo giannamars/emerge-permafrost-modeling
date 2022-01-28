@@ -1,0 +1,19 @@
+genome,domaine,phylum,habitat_binnedfrom,depth_binnedfrom,functional_group,substrate,Rmax,K
+73.20100900_E2D.36,Archaea,Euryarchaeota,fen,deep,Hydrogenotrophic methanogen,Carbon dioxide,0.2717092639822699,0.2883340587180203
+73.20100900_E2S.9,Archaea,Euryarchaeota,fen,surface,Hydrogenotrophic methanogen,Carbon dioxide,0.1939849232392591,0.20970005904549474
+73.20100900_E3D.38,Archaea,Euryarchaeota,fen,deep,Hydrogenotrophic methanogen,Carbon dioxide,0.09779268881860037,0.10219975790025322
+73.20100900_E3D.91,Archaea,Euryarchaeota,fen,deep,Hydrogenotrophic methanogen,Carbon dioxide,0.06888760390191892,0.07523491292342818
+73.20110700_S2D.54,Archaea,Euryarchaeota,bog,deep,Hydrogenotrophic methanogen,Carbon dioxide,0.06737074535844191,0.07238824329370222
+73.20110800_E2D.14,Archaea,Euryarchaeota,fen,deep,Hydrogenotrophic methanogen,Carbon dioxide,0.03310894341096495,0.04051501335938862
+73.20110800_E3D.115,Archaea,Euryarchaeota,fen,deep,Hydrogenotrophic methanogen,Carbon dioxide,0.1273103162633152,0.1332000610214881
+73.20110800_E3D.97,Archaea,Euryarchaeota,fen,deep,Hydrogenotrophic methanogen,Carbon dioxide,0.03752415005178195,0.044446476035155655
+73.20120500_P28.11,Archaea,Euryarchaeota,palsa,series,Hydrogenotrophic methanogen,Carbon dioxide,0.04225201708392237,0.05098906969667236
+73.20120600_E1D.45,Archaea,Euryarchaeota,fen,deep,Hydrogenotrophic methanogen,Carbon dioxide,0.044722145377807575,0.05113173918860192
+73.20120600_E3D.137,Archaea,Euryarchaeota,fen,deep,Hydrogenotrophic methanogen,Carbon dioxide,0.07321563500716305,0.0779955329279717
+73.20120700_E1X.21,Archaea,Euryarchaeota,fen,extradeep,Hydrogenotrophic methanogen,Carbon dioxide,0.0545972159466023,0.060423644352507216
+73.20120700_E3M.1,Archaea,Euryarchaeota,fen,mid,Hydrogenotrophic methanogen,Carbon dioxide,0.04269416619667284,0.049795158733801075
+73.20120700_P3D.344,Archaea,Euryarchaeota,palsa,deep,Hydrogenotrophic methanogen,Carbon dioxide,0.2601205646761189,0.2734475512064247
+73.20120700_S1D.117,Archaea,Euryarchaeota,bog,deep,Hydrogenotrophic methanogen,Carbon dioxide,0.085793451795076,0.09070228128840369
+73.20120800_E3X.20,Archaea,Euryarchaeota,fen,extradeep,Hydrogenotrophic methanogen,Carbon dioxide,0.040571425947607175,0.04716912676976593
+73.20120800_S1D.21,Archaea,Euryarchaeota,bog,deep,Hydrogenotrophic methanogen,Carbon dioxide,0.04291873175083481,0.04966103406550163
+73.20120800_S1D.32,Archaea,Euryarchaeota,bog,deep,Hydrogenotrophic methanogen,Carbon dioxide,0.23968032310707751,0.25145963190876114

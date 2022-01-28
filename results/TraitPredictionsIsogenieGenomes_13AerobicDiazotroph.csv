@@ -1,0 +1,21 @@
+genome,domaine,phylum,habitat_binnedfrom,depth_binnedfrom,functional_group,substrate,Rmax,K
+73.20110800_S1M.60,Bacteria,Proteobacteria,bog,mid,Aerobic diazotroph,Glucose,0.02654621879755722,0.21460686047237607
+73.20110800_S1M.73,Bacteria,Acidobacteria,bog,mid,Aerobic diazotroph,Glucose,0.033207697859975814,0.24799590910985397
+73.20120500_P28.7,Bacteria,Proteobacteria,palsa,series,Aerobic diazotroph,Glucose,0.02063734781542132,0.186339714737303
+73.20120500_P28.8,Bacteria,Proteobacteria,palsa,series,Aerobic diazotroph,Glucose,0.06928843388714581,0.34066707557277676
+73.20120600_E2D.118,Bacteria,Actinobacteria,fen,deep,Aerobic diazotroph,Glucose,0.024615442801186133,0.20522778986815082
+73.20120600_E2D.69,Bacteria,Actinobacteria,fen,deep,Aerobic diazotroph,Glucose,0.03209939748083118,0.2410659964217067
+73.20120600_E3D.60,Bacteria,Proteobacteria,fen,deep,Aerobic diazotroph,Glucose,0.017767645837040914,0.17333028869328052
+73.20120600_E3D.84,Bacteria,Proteobacteria,fen,deep,Aerobic diazotroph,Glucose,0.026948348003175245,0.21639582191653337
+73.20120700_E1D.21,Bacteria,Acidobacteria,fen,deep,Aerobic diazotroph,Glucose,0.05049374167930312,0.3315686661512913
+73.20120700_P3D.113,Bacteria,Proteobacteria,palsa,deep,Aerobic diazotroph,Glucose,0.06497172605192514,0.32518187805197923
+73.20120700_P3D.282,Bacteria,Proteobacteria,palsa,deep,Aerobic diazotroph,Glucose,0.033827756049923136,0.24803053359652283
+73.20120700_P3D.316,Bacteria,Proteobacteria,palsa,deep,Aerobic diazotroph,Glucose,0.044668353726984675,0.30005808680460055
+73.20120700_P3D.333,Bacteria,Nitrospirae,palsa,deep,Aerobic diazotroph,Glucose,0.03453963198002557,0.2515773094844781
+73.20120700_S1D.242,Bacteria,Proteobacteria,bog,deep,Aerobic diazotroph,Glucose,0.01701240315662218,0.1708920763941861
+73.20120700_S1D.260,Bacteria,Proteobacteria,bog,deep,Aerobic diazotroph,Glucose,0.034121486936791574,0.2131464722773416
+73.20120700_S1D.96,Bacteria,Proteobacteria,bog,deep,Aerobic diazotroph,Glucose,0.023819859370715114,0.20196423626503676
+73.20120700_S1D.97,Bacteria,Acidobacteria,bog,deep,Aerobic diazotroph,Glucose,0.04670512997911033,0.23345307022013048
+73.20120700_S3D.28,Bacteria,Acidobacteria,bog,deep,Aerobic diazotroph,Glucose,0.039904506741911296,0.2773306558466919
+73.20120700_S3X.5,Bacteria,Acidobacteria,bog,extradeep,Aerobic diazotroph,Glucose,0.056173016905230605,0.2921391320811793
+73.20120800_S3M.30,Bacteria,Proteobacteria,bog,mid,Aerobic diazotroph,Glucose,0.024258131691726248,0.2048407776343334

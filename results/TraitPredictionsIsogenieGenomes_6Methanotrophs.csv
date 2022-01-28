@@ -1,0 +1,10 @@
+genome,domaine,phylum,habitat_binnedfrom,depth_binnedfrom,functional_group,substrate,Rmax,K
+73.20111000_P3M.58,Bacteria,Nitrospirae,palsa,mid,Methanotroph,Methane,0.7094508176255361,0.010285649065452106
+73.20111000_P3M.98,Bacteria,Proteobacteria,palsa,mid,Methanotroph,Methane,0.8224580428166579,0.010990516832778388
+73.20120600_E3D.145,Bacteria,Proteobacteria,fen,deep,Methanotroph,Methane,0.6626081830180526,0.00994357208809676
+73.20120600_S3D.22,Bacteria,Proteobacteria,bog,deep,Methanotroph,Methane,0.9242615699279741,0.011618385616499123
+73.20120700_E2X.256,Bacteria,Proteobacteria,fen,extradeep,Methanotroph,Methane,0.49162191355018664,0.008916144667333849
+73.20120700_E3M.239,Bacteria,Proteobacteria,fen,mid,Methanotroph,Methane,0.4475316045283997,0.008706953384101707
+73.20120700_P3D.113,Bacteria,Proteobacteria,palsa,deep,Methanotroph,Methane,1.2727839200713589,0.013818707486278621
+73.20120700_P3D.140,Bacteria,Nitrospirae,palsa,deep,Methanotroph,Methane,0.682306558764654,0.010126666015297745
+73.20120800_S3M.30,Bacteria,Proteobacteria,bog,mid,Methanotroph,Methane,0.6287290337250794,0.009793339013803411

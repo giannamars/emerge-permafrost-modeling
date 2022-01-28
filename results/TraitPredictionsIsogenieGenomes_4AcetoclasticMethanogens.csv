@@ -1,0 +1,18 @@
+genome,domaine,phylum,habitat_binnedfrom,depth_binnedfrom,functional_group,substrate,Rmax,K
+73.20100900_E2D.36,Archaea,Euryarchaeota,fen,deep,Acetoclastic methanogen,Acetic acid,0.03237456363911436,24.706832031704618
+73.20100900_E2S.9,Archaea,Euryarchaeota,fen,surface,Acetoclastic methanogen,Acetic acid,0.02336976379706621,17.76056894872501
+73.20100900_E3D.38,Archaea,Euryarchaeota,fen,deep,Acetoclastic methanogen,Acetic acid,0.011963569717335998,8.264353871733515
+73.20100900_E3D.91,Archaea,Euryarchaeota,fen,deep,Acetoclastic methanogen,Acetic acid,0.008469789371495789,5.882370149923272
+73.20110700_S2D.54,Archaea,Euryarchaeota,bog,deep,Acetoclastic methanogen,Acetic acid,0.008285595928584738,5.630904928253855
+73.20110800_E2D.14,Archaea,Euryarchaeota,fen,deep,Acetoclastic methanogen,Acetic acid,0.004097379525202454,2.815330986319431
+73.20110800_E3D.115,Archaea,Euryarchaeota,fen,deep,Acetoclastic methanogen,Acetic acid,0.015497928489337153,11.002816394675085
+73.20110800_E3D.97,Archaea,Euryarchaeota,fen,deep,Acetoclastic methanogen,Acetic acid,0.004639968681568282,3.162623177490197
+73.20120500_P28.11,Archaea,Euryarchaeota,palsa,series,Acetoclastic methanogen,Acetic acid,0.00522000375320462,3.740573898643819
+73.20120600_E1D.45,Archaea,Euryarchaeota,fen,deep,Acetoclastic methanogen,Acetic acid,0.005522680311774039,3.7531768417598377
+73.20120600_E3D.137,Archaea,Euryarchaeota,fen,deep,Acetoclastic methanogen,Acetic acid,0.008995294630362556,6.126234037091102
+73.20120700_E1X.21,Archaea,Euryarchaeota,fen,extradeep,Acetoclastic methanogen,Acetic acid,0.00673001340276315,4.573992495031692
+73.20120700_E3M.1,Archaea,Euryarchaeota,fen,mid,Acetoclastic methanogen,Acetic acid,0.00527420501609108,3.6351078193359516
+73.20120700_E3M.288,Archaea,Euryarchaeota,fen,mid,Acetoclastic methanogen,Acetic acid,0.01496405853887049,10.749080735996905
+73.20120700_S1D.117,Archaea,Euryarchaeota,bog,deep,Acetoclastic methanogen,Acetic acid,0.010518130522841972,7.248705454141751
+73.20120800_E3X.20,Archaea,Euryarchaeota,fen,extradeep,Acetoclastic methanogen,Acetic acid,0.0050139468998286205,3.4031329870437173
+73.20120800_S1D.21,Archaea,Euryarchaeota,bog,deep,Acetoclastic methanogen,Acetic acid,0.00530173171222637,3.623259697202964

@@ -1,0 +1,17 @@
+genome,domaine,phylum,habitat_binnedfrom,depth_binnedfrom,functional_group,substrate,Rmax,K
+73.20110700_P1D.11,Bacteria,Verrucomicrobia,palsa,deep,Nitrous oxide reductase,Nitrous oxide,0.15384748136045304,0.4646570834497434
+73.20110700_P2D.48,Bacteria,Verrucomicrobia,palsa,deep,Nitrous oxide reductase,Nitrous oxide,0.14185466375864583,0.42968584141136196
+73.20110800_P1D.10,Bacteria,Verrucomicrobia,palsa,deep,Nitrous oxide reductase,Nitrous oxide,0.14610513135763797,0.44402315260424474
+73.20110800_P1D.22,Bacteria,Gemmatimonadetes,palsa,deep,Nitrous oxide reductase,Nitrous oxide,0.20719313029585137,0.5901426096655606
+73.20110800_P1D.52,Bacteria,Proteobacteria,palsa,deep,Nitrous oxide reductase,Nitrous oxide,0.22839249102645526,0.6041666259941871
+73.20110800_P1D.8,Bacteria,Verrucomicrobia,palsa,deep,Nitrous oxide reductase,Nitrous oxide,0.12360049086835379,0.38886520567188604
+73.20111000_P1D.32,Bacteria,Gemmatimonadetes,palsa,deep,Nitrous oxide reductase,Nitrous oxide,0.2722609980799903,0.7529428735904565
+73.20120500_P16.21,Bacteria,Bacteroidetes,palsa,series,Nitrous oxide reductase,Nitrous oxide,0.08252533384248639,0.2887133698498307
+73.20120500_P28.34,Bacteria,Proteobacteria,palsa,series,Nitrous oxide reductase,Nitrous oxide,0.13822107779704773,0.4254561636751195
+73.20120500_P28.8,Bacteria,Proteobacteria,palsa,series,Nitrous oxide reductase,Nitrous oxide,0.27851156331564697,0.7408005739811956
+73.20120500_P37.5,Bacteria,Verrucomicrobia,palsa,series,Nitrous oxide reductase,Nitrous oxide,0.14831992532405622,0.4489013768243477
+73.20120700_E1X.16,Bacteria,Gemmatimonadetes,fen,extradeep,Nitrous oxide reductase,Nitrous oxide,0.20175508534379605,0.5800493490719895
+73.20120700_P3D.239,Bacteria,Proteobacteria,palsa,deep,Nitrous oxide reductase,Nitrous oxide,0.1297331421695408,0.4065499072575701
+73.20120700_P3D.248,Bacteria,Proteobacteria,palsa,deep,Nitrous oxide reductase,Nitrous oxide,0.2059505365264815,0.5736730081526541
+73.20120700_P3D.339,Bacteria,Proteobacteria,palsa,deep,Nitrous oxide reductase,Nitrous oxide,0.16770265740068668,0.4742635722923487
+73.20120700_P3D.99,Bacteria,Bacteroidetes,palsa,deep,Nitrous oxide reductase,Nitrous oxide,0.10048929787664054,0.33021977352616677
